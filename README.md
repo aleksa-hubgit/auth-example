@@ -1,0 +1,11 @@
+https://github.com/gin-gonic/examples/tree/master/grpc/example1
+https://www.koyeb.com/tutorials/build-a-grpc-api-using-go-and-grpc-gateway
+https://quarkus.io/
+https://princepereira.medium.com/install-grpccurl-in-ubuntu-6ad71fd3ed31
+https://grpc.io/docs/languages/go/basics/
+https://www.jetbrains.com/guide/go/tutorials/authentication-for-go-apps/auth/
+https://pkg.go.dev/github.com/golang-jwt/jwt#section-readme
+https://github.com/golang-jwt/jwt
+https://grpc.io/docs/guides/auth/
+https://github.com/grpc/grpc-go/tree/master/examples/features/encryption
+https://www.reddit.com/r/golang/comments/13wq8km/how_to_build_auth_in_2023_with_go/
